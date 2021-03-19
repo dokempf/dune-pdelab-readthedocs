@@ -6,3 +6,14 @@ Dune/PDELab Course Material
    :caption: Contents:
 
 So, here will be the content.
+
+
+Lectures
+========
+
+Introduction to Finite Elements
+-------------------------------
+
+..  youtube:: FAuyWUL9mmc
+..  youtube:: 2jrJi3y2wSw
+

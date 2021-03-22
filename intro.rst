@@ -35,7 +35,7 @@ Each lecture consists of the following aspects:
 * A PDF document explaining the lecture content in written form.
 * An exercise sheet with assignments for you to reflect on the lecture content.
 
-It is important to understand that both of the lecture (either in written
+It is important to understand that both the lecture (either in written
 form or as an actual lecture) and the exercises are necessary
 to build a profound understanding of the Dune framework. 
 
@@ -46,7 +46,7 @@ before you might want to consider watching this video after
 
 .. youtube :: ZmNFWNMlcdM
 
-In order to do the exercise, it is important to understand the directory structure
+In order to do the exercises, it is important to understand the directory structure
 of the course material. This structure results from the modular structure of the
 Dune ecosystem: The :code:`dune` subdirectory contains sources of all required Dune
 modules. The :code:`release-build` contains an *out-of-source build* performed by
@@ -134,7 +134,7 @@ where as the virtual machine setup will work on all operating systems.
 
 If you are on an Debian (e.g. version 10) or Ubuntu (e.g. 20.04 LTS)
 system, you should open a terminal and execute the following sequence
-of commands will download and build the course material on your computer.
+of commands. This will download and build the course material on your computer.
 
 .. code:: bash
 
@@ -153,8 +153,7 @@ a virtual machine. In order to do so you need to:
 * Add the VM to VirtualBox and start it.
 * Log in to the Debian 10 guest system with the user *dune* and the password *course*
 
-The following video runs you through the process of getting the
-virtual machine to run. If you have never worked with virtual machines
+If you have never worked with virtual machines
 before, you can also watch this video that runs you through the process:
 
 .. youtube:: IsoC5mDyHzE

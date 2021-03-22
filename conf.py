@@ -56,3 +56,11 @@ html_theme = 'sphinx_rtd_theme'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = []
+
+# Check if we're running on Read the Docs' servers
+read_the_docs_build = os.environ.get('READTHEDOCS', None) == 'True'
+
+# Implement build logic on RTD servers
+if read_the_docs_build:
+    import git_lfs
+    git_lfs.fetch(os.getcwd())

@@ -1,1 +1,2 @@
 git+https://github.com/sphinx-contrib/youtube.git@master
+git-lfs

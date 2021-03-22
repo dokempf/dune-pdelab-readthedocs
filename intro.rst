@@ -22,6 +22,8 @@ With the pandemic prohibiting the traditional format, the course has been given
 virtually for the first time in March 2021. With all our lectures being
 recorded, we are making the material now available for self study.
 
+.. _structure:
+
 How to study with the Material
 ------------------------------
 
@@ -107,8 +109,13 @@ the structure outlined for :code:`tutorial00` above:
   lecture to illustrate the lecture topic. It is a fully functional simulation
   executable. There is typically additional configuration files that control
   the simulation in the :code:`src` directory.
-* :code:`doc` contains the Latex sources for the lecture. You do not need to build
-  this yourself.
+* :code:`exercise/task` contains the C++ sources for the exercise. You are not
+  expected to write C++ programs from scratch. Instead, your task is to modify
+  the given program.
+* :code:`exercises/solution` contains the full solution to the tasks. Feel free
+  to consult it if you are stuck.
+* :code:`doc` and :code:`exercise/doc` contain the Latex sources for the lecture.
+  You do not need to build this yourself.
 
 We have also summarized the structure of the lecture and exercise material
 in this short video:

@@ -10,9 +10,9 @@ Lectures
    lectures/grid
    lectures/workflow
    lectures/elliptic
-   lectures/adaptivity
-   lectures/codegen
-   lectures/fv
    lectures/instationary
-   lectures/parallel
+   lectures/fv
    lectures/systems
+   lectures/adaptivity
+   lectures/parallel
+   lectures/codegen

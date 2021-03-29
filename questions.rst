@@ -4,7 +4,7 @@ Questions and Answers
 =====================
 
 Asking questions to experienced developers is vital for becoming an
-export with any piece of scientific software. In order to get your
+expert with any piece of scientific software. In order to get your
 questions about Dune answered there is the following possibilities:
 
 * Subscribe to the `Dune mailing list <https://lists.dune-project.org/mailman/listinfo/dune>`_ to

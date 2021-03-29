@@ -7,3 +7,4 @@ Dune/PDELab Course
    intro
    lectures
    questions
+   license
